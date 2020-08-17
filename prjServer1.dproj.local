@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.006,=C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit31.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.473,=C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit31.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.660,=C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit31.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.784,=C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit31.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.681,C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit32.dfm=F:\Work\VIMOVYAA\TestApps\WebTokens\wmdWebModule.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.708,F:\Work\VIMOVYAA\TestApps\WebTokens\Unit1.pas=F:\Work\VIMOVYAA\TestApps\WebTokens\untTokenHelper.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.700,=F:\Work\VIMOVYAA\TestApps\WebTokens\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.417,=C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit31.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.221,=C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit31.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.062,C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Project28.dproj=F:\Work\VIMOVYAA\TestApps\WebTokens\prjServer1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.092,=C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit32.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.681,C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit32.pas=F:\Work\VIMOVYAA\TestApps\WebTokens\wmdWebModule.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.822,=C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit32.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.112,=C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit31.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.461,C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit31.pas=F:\Work\VIMOVYAA\TestApps\WebTokens\untController.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.983,=C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit31.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.623,=C:\Users\Nirav\Documents\Embarcadero\Studio\Projects\Unit31.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="4597f5ee0305" Android="4597f5ee0305" iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
